@@ -1,0 +1,9 @@
+
+cd_ibge
+d.vlr_renda_media_fam
+d.vlr_renda_total_fam
+p.nom_pessoa
+p.num_nis_pessoa_atual
+p.num_cpf_pessoa
+p.fx_renda_individual_809_2
+p.ref_cad
